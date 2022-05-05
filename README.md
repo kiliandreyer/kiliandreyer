@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @kiliandreyer
-- 👀 I’m interested in Web Development
+- 👋 Hi, I’m Kilian Dreyer
+- 👀 I’m interested in Web Development and Python programming
 - 🌱 I’m currently learning JavaScript
 
 <!---
